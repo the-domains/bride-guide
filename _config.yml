@@ -1,8 +1,24 @@
+name: Bride Guide
+favicon: null
 layout_spectrum: 0.01724879
 typography_spectrum: 0.3345864
+title: The Bride Guide - Nicole Klym Photography
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5957527
+  brandColors: []
   brandStrength: 0.8384027
   lightness: 0.1874329
+  saturation: 0.5957527
   rhythmicContrast: 0.6342642
-name: Bride Guide
+purpose: []
