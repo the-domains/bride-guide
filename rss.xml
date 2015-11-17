@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Bride Guide - Nicole Klym Photography]]></title>
+        <description><![CDATA[The Bride Guide - Nicole Klym Photography]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 17 Nov 2015 01:24:42 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Preparing For Your Engagement Session]]></title>
+            <description><![CDATA[<article><h1>Preparing For Your Engagement Session</h1><p>Tips of preparing for your engagement photo session with your photographer.</p></article>]]></description>
+            <link>undefinedpreparing-for-your-engagement-session/index.html</link>
+            <guid isPermaLink="false">f5c25843-037f-4926-a1b5-c9e1b6c4b773</guid>
+            <pubDate>Tue, 17 Nov 2015 01:24:42 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
